@@ -12,3 +12,8 @@ p {
 	margin-top: 50px;
 	color: white;
 }
+
+img {
+	margin: auto;
+	display: block;
+}
